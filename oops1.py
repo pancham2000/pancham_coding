@@ -30,3 +30,6 @@ class UseSelf:
 use_self=UseSelf("Ravi")
 use_self.display()
 print("======================")
+
+
+print(1+2)
